@@ -1,1 +1,1 @@
-# ict.html
+# https://kikiict.github.io
